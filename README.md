@@ -45,4 +45,4 @@ Buy dongle from shoppee.
 
 ## Known Issue
 1. Steering wheel button are not working. See [this docs](SteeringButtonWorkaroundAA.md) for the workaround.
-2. No icon will show after the installation. The application will show after you reboot @ fresh start your car. 
+2. No icon will show after the installation. The application will show after you reboot @ fresh start your car. Or just plug your dongle to open the app.
