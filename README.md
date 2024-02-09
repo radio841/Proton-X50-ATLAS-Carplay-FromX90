@@ -9,7 +9,7 @@ If you want to avoid applying changes on IHU, you may use this [Modded QDLink](h
 
 # Before you start
 - This guide meant for advance user.
-- You do not need to run standard script beforehand, you can just install Autokit with this script. 
+- You need to downgrade to ATLAS version 617 beforehand, then you can just install Autokit with this script. 
 - Strictly follow the steps. In case you break your IHU (although almost impossible if you adhere to the guide), I can't fix for you. :)
 
 
@@ -45,3 +45,4 @@ Buy dongle from shoppee.
 
 ## Known Issue
 1. Steering wheel button are not working. See [this docs](SteeringButtonWorkaroundAA.md) for the workaround.
+2. No icon will show after the installation. The application will show after you reboot @ fresh start your car. 
